@@ -61,5 +61,11 @@
             @apply hidden;
         }
      }
+
+     .blog-post{
+         a{
+             @apply text-primary-500;
+         }
+     }
    
 }
